@@ -1,2 +1,0 @@
-# Projeto-js
-Trabalho Godoy
